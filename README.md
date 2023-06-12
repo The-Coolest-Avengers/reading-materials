@@ -6,3 +6,4 @@ https://tech.olx.com/clean-architecture-and-mvvm-on-ios-c9d167d9f5b3
 
 ## UIKit development video
 https://www.youtube.com/watch?v=KCgYDCKqato
+https://www.youtube.com/watch?v=_U6_l58Cv4E
